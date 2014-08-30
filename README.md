@@ -17,7 +17,7 @@ See also Hadley Wickham's [babynames][] package.
 ## Install
 
 Install it from GitHub with
-`devtools::install\_github("lmullen/gender-data-pkg")`.
+`devtools::install_github("lmullen/gender-data-pkg")`.
 
 ## License
 
