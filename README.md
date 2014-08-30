@@ -19,10 +19,6 @@ See also Hadley Wickham's [babynames][] package.
 Install it from GitHub with
 `devtools::install_github("lmullen/gender-data-pkg")`.
 
-## License
-
-MIT License, <http://lmullen.mit-license.org/>
-
   [gender]: https://github.com/ropensci/gender
   [Mark Kantrowitz's name corpus]: http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/0.html
   [Social Security Administration's baby names by year and state]: http://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-data-by-state-and-district-of-

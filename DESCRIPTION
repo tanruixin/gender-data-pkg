@@ -8,7 +8,7 @@ Description: This package contains several historical data sets of use for
     studying gender.
 Depends:
     R (>= 3.1.0)
-License: MIT
+License: CC0
 LazyData: true
 URL: https://github.com/lmullen/gender-data-pkg
 BugReports: https://github.com/lmullen/gender-data-pkg/issues
