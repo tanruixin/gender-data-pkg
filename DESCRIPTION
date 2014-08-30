@@ -6,6 +6,8 @@ Authors@R: c(person("Lincoln", "Mullen", email = "lincoln@lincolnmullen.com",
     person("Ben", "Schmidt", role = "ctb"))
 Description: This package contains several historical data sets of use for
     studying gender.
+Depends:
+    R (>= 3.1.0)
 License: MIT
 LazyData: true
 URL: https://github.com/lmullen/gender-data-pkg
