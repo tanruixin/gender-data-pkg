@@ -1,0 +1,12 @@
+Package: genderdata
+Title: Historical data sets for the study of gender
+Version: 0.1
+Authors@R: c(person("Lincoln", "Mullen", email = "lincoln@lincolnmullen.com",
+    role = c("aut", "cre")), person("Cameron", "Blevins", role = "ctb"),
+    person("Ben", "Schmidt", role = "ctb"))
+Description: This package contains several historical data sets of use for
+    studying gender.
+License: CC0
+LazyData: true
+URL: https://github.com/lmullen/gender-data-pkg
+BugReports: https://github.com/lmullen/gender-data-pkg/issues
